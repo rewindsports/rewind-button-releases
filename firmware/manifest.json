@@ -1,34 +1,34 @@
 {
-  "version": 201,
-  "name": "2.0.201",
+  "version": 202,
+  "name": "2.0.202",
   "builds": {
     "esp32": {
-      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-201.bin",
-      "md5": "82ee1968e8af3c627b81ac817da824a5",
-      "size": 1225296,
+      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-202.bin",
+      "md5": "dd25a92603ef762d54e282d43e86d3f2",
+      "size": 1226064,
       "merged": {
-        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-201.merged.bin",
-        "md5": "bdab0e3320ce6fef1d79e9955ef09681",
+        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-202.merged.bin",
+        "md5": "a4078df830ffc95604409bd1e8cf06f3",
         "size": 4194304
       }
     },
     "esp32s3": {
-      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3/RewindButton-201.bin",
-      "md5": "b32244927a5dce8a6191543800543806",
-      "size": 1213296,
+      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3/RewindButton-202.bin",
+      "md5": "8e27fa50acdbc7b81b9d6fe2e5405b81",
+      "size": 1213984,
       "merged": {
-        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3/RewindButton-201.merged.bin",
-        "md5": "279580cee7feca62da3c05956b805357",
+        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3/RewindButton-202.merged.bin",
+        "md5": "ecd692ae693b3dc5c4d2e46918279f35",
         "size": 4194304
       }
     },
     "esp32c3": {
-      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32c3/RewindButton-201.bin",
-      "md5": "df9c34b48a4df4a63a830619d066910d",
-      "size": 1330608,
+      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32c3/RewindButton-202.bin",
+      "md5": "f583e1c3d0a17fd4437b47a26559677a",
+      "size": 1331344,
       "merged": {
-        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32c3/RewindButton-201.merged.bin",
-        "md5": "dbbb82348daa348e5e7458ea8345c770",
+        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32c3/RewindButton-202.merged.bin",
+        "md5": "bc188feca5d7fdeea1a0a5d4786a0aca",
         "size": 4194304
       }
     }

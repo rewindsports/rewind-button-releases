@@ -13,10 +13,7 @@
       },
       "source": "1debdf8654514f61d920f87753f99e736c037117",
       "version": 205,
-      "name": "2.0.205",
-      "only": [
-        "SuperPadel_Hub"
-      ]
+      "name": "2.0.205"
     },
     "esp32": {
       "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-206.bin",

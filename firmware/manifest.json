@@ -2,19 +2,6 @@
   "version": 206,
   "name": "2.0.206",
   "builds": {
-    "esp32s3-hub": {
-      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3-hub/RewindButton-205.bin",
-      "md5": "08c960fc503735d3dea7a6362d73fa7b",
-      "size": 972560,
-      "merged": {
-        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3-hub/RewindButton-205.merged.bin",
-        "md5": "63cd093f1d2d0485d4e13afe03b0800f",
-        "size": 16777216
-      },
-      "source": "1debdf8654514f61d920f87753f99e736c037117",
-      "version": 205,
-      "name": "2.0.205"
-    },
     "esp32": {
       "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32/RewindButton-206.bin",
       "md5": "50bfbf45476c503604d9879947ed70d0",
@@ -47,6 +34,22 @@
         "size": 4194304
       },
       "source": "1debdf8654514f61d920f87753f99e736c037117"
+    },
+    "esp32s3-hub": {
+      "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3-hub/RewindButton-207.bin",
+      "md5": "2110c8780b7436427e664c0e01e6f3f9",
+      "size": 972336,
+      "merged": {
+        "url": "https://raw.githubusercontent.com/rewindsports/rewind-button-releases/main/firmware/esp32s3-hub/RewindButton-207.merged.bin",
+        "md5": "c0f95a57489151a15a98c56554d067bb",
+        "size": 16777216
+      },
+      "source": "7c58079ffc485c5f0ad5a9eacd67e72391e1298f",
+      "version": 207,
+      "name": "2.0.207",
+      "only": [
+        "SuperPadel_Hub"
+      ]
     }
   }
 }
